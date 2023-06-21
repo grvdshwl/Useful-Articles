@@ -1,3 +1,3 @@
 # Useful-Articles
 
-## This repo contains useful links for articles,video lectures and tuotorials for learning  different forntend and backend technologies.
+## This repository compiles a valuable collection of resources including articles, video lectures, and tutorials to facilitate the learning process of various frontend and backend technologies.
